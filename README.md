@@ -1,0 +1,1 @@
+A user uploads a PDF, the app extracts readable text, splits it into chunks, creates embeddings, stores those vectors, retrieves the most relevant chunks for a question, and asks an OpenAI model to answer only from the retrieved PDF context.
